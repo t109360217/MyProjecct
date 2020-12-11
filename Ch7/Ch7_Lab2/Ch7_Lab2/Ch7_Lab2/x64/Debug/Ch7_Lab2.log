@@ -1,0 +1,4 @@
+﻿  main.c
+c:\c_code\ch7_lab2\source\main.c(51): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\c_code\ch7_lab2\source\main.c(56): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  Ch7_Lab2.vcxproj -> C:\c_code\Ch7_Lab2\Ch7_Lab2\x64\Debug\Ch7_Lab2.exe
